@@ -1,0 +1,9 @@
+{
+  "name": "cash-register",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js input.txt",
+    "test": "node --test"
+  }
+}

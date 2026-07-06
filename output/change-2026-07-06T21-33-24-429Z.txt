@@ -1,0 +1,10 @@
+1 fifty-pence coin, 1 twenty-pence coin, 1 ten-pence coin, 1 five-pence coin, 1 two-pence coin, 1 one-penny coin
+1 two-pence coin, 1 one-penny coin
+1 one-pound coin, 1 fifty-pence coin, 1 ten-pence coin, 1 five-pence coin, 1 two-pence coin
+
+1 five-pound note, 1 two-pound coin, 1 fifty-pence coin, 1 ten-pence coin, 1 five-pence coin, 1 two-pence coin
+1 fifty-pence coin, 1 twenty-pence coin, 1 five-pence coin, 2 two-pence coins
+
+1 five-pound note, 3 two-pound coins, 1 fifty-pence coin, 2 five-pence coins, 1 two-pence coin, 5 one-penny coins
+15 fifty-pound notes, 1 twenty-pound note, 1 ten-pound note, 13 five-pound notes, 6 two-pound coins, 24 one-pound coins, 38 fifty-pence coins, 1 two-pence coin, 1 one-penny coin
+2 fifty-pound notes, 2 twenty-pound notes, 1 five-pound note, 1 two-pound coin, 1 one-pound coin, 1 two-pence coin, 1 one-penny coin

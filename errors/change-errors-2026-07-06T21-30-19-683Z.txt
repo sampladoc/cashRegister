@@ -1,0 +1,6 @@
+========== INPUT ERRORS ==========
+
+Line 7: Paid ($5.00) is less than Owed ($6.33)
+Line 13: Paid ($3.00) is less than Owed ($3.30)
+
+2 invalid transaction(s) found.
